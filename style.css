@@ -1,0 +1,15 @@
+body{
+    background: url(cool-background\ \(1\).png) no-repeat;
+    background-size: 100% 100vh;
+
+}
+.btn{
+    border: 1px solid rgb(167, 201, 211);
+    background-color: rgba(167, 201, 211, 0.295);
+    color: rgb(36, 35, 35);
+}
+.btn:hover{
+    border: 1px solid rgb(167, 201, 211);
+    background-color: rgb(167, 201, 211);
+    color: rgb(36, 35, 35);
+}
